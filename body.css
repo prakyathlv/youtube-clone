@@ -1,0 +1,57 @@
+.body{
+    display: flex;
+    flex-direction: row;
+    height: 3000px;
+    padding-top: 80px;
+}
+.right{
+    padding-left: 77px;
+    
+}
+.video-time{
+    position: absolute;
+   background-color: black;
+   color: white;
+   top: 0;
+   right: 0;
+   left: 0;
+}
+.thumbnail{
+    position: relative;
+}
+.left{
+    width: 35px;
+    margin: 20px;
+    position: fixed;
+    top: 50px;
+    left: 0;
+    right: 0;
+  
+    background-color: white;
+   
+}
+.home{
+    
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.explore{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.subscribe{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.originals{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.youtube-music{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.library{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
